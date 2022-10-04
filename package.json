@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "pm2": "pm2 start pm2.json",
+    "pdm2": "pm2 start pm2.json",
     "stop": "pm2 stop wechaty-pro",
     "restart": "pm2 restart wechat-pro",
     "start": "node index.js",
